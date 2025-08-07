@@ -1,4 +1,7 @@
 # Clases 4geeks
+## Instalacion
+- Version de python 3.12.1
+- Instalar librerias: `pip install -r requirements.txt`
 ## Comandos
 - Para mostrar los archivos ene el directorio actual `ls`
 - Para mostrar los archivos ene el directorio actual ocultos `ls -a`
